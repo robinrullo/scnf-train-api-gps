@@ -1,0 +1,14 @@
+{
+  "name": "sncf-geoloc",
+  "version": "0.0.0",
+  "description": "Consume sncf train API to get GPS position at realtime.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Robin RULLO",
+  "license": "ISC"
+}
